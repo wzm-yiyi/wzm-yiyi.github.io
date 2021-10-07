@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: rgba(255,192,203, 0.5);
+}
+
+.header{
+    background: url("yiyi.jpg") no-repeat;
+    width: 50%;
+    height: 500px;
+    margin: 0 auto;
+}
+
+.header ul li {
+    list-style: none;
+}
+.header a{
+    padding: 20px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 30px;
+}
